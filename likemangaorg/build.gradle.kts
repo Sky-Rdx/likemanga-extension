@@ -24,7 +24,3 @@ android {
         }
     }
 }
-
-dependencies {
-    implementation("eu.kanade.tachiyomi:multisrc:1.0")
-}
